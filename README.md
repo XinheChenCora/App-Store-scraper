@@ -1,4 +1,4 @@
-# Cora's Best Python Project
+# Python Project
 
 
 ## Description
