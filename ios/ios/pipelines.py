@@ -11,7 +11,7 @@ import pymysql
 class IosPipeline:
 
     def __init__(self):
-        self.conn = pymysql.Connect(host='localhost', port=3306, user='root', password='123456', database='spider',
+        self.conn = pymysql.Connect(host='localhost', port=3306, user='****', password='******', database='*****',
                                     charset='utf8mb4')
         self.cursor = self.conn.cursor()
         # self.data=[]
