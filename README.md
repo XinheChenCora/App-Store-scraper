@@ -9,5 +9,5 @@ This is a web scraper for iOS's App Store
 
 ### Author Details:
 
-Name: Xinhe Chen (Cora, The Legend)
+Name: Xinhe Chen
 Email: xchen6@tcd.ie
